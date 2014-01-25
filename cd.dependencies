@@ -1,0 +1,18 @@
+[
+ {
+   "branch": "cm-11.0",
+    "repository": "CyanogenMod/android_kernel_samsung_tuna",
+   "target_path": "kernel/samsung/tuna"
+ },
+ {
+   "branch": "cm-11.0",
+    "repository": "CyanogenMod/android_device_samsung_tuna",
+   "target_path": "device/samsung/tuna"
+ },
+ { 
+   "repository": "TheMuppets/proprietary_vendor_samsung", 
+   "target_path": "vendor/samsung", 
+   "branch": "cm-11.0" 
+ } 
+]
+
