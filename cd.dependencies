@@ -5,8 +5,7 @@
    "target_path": "kernel/samsung/tuna"
  },
  {
-   "branch": "cm-11.0",
-    "repository": "CyanogenMod/android_device_samsung_tuna",
+   "repository": "cyandream-devices/android_device_samsung_tuna",
    "target_path": "device/samsung/tuna"
  },
  { 
